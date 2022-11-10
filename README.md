@@ -17,4 +17,4 @@
 16. What's next? -> Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
 
 This README file was updated today 5th November 2022.
-a new directory was added to this repository...command_line challenge
+a new directory was added to this repository...command_line challenge...for some reason I am yet to understand, the new directory does not 'open' as other directories in the repository
